@@ -1,5 +1,5 @@
-title: Marcelo Fuentes's Github Site
-description: Hi, this is my personal site with a bit about me and some consulting projects I worked on
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
@@ -11,6 +11,6 @@ plugins:
 title: [The title of your site]
 description: [A short description of your site's purpose]
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+# github:
+#   zip_url: http://example.com/download.zip
+#   another_url: another value
