@@ -21,8 +21,9 @@ Banco de la Reserva del Peru (The Peruvian Central Bank) needed to gain access t
 
 Davis & Gilbert (Corporate Law Firm) engaged with Marcelo to work on survey data analysis to provide novel insights for their yearly report to their client portfolio. As part of this project I work mainly with CSV files provided by Davis & Gilbert and subsequently perform the analysis using Python. As part of this project I liaise directly with the Chief Marketing Officer and Senior Partners at the Law Firm.
 
-![Davis   Gilbert](https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/dd81c31a-e9c1-47bf-a760-deafd097cf00)
-
+<div style="display: flex;">
+    <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/dd81c31a-e9c1-47bf-a760-deafd097cf00" alt="DavisGilbertLogo" style="height: 100px;">
+</div>
 
 ### 🌟 Data Integration: International Startup Data Lake Consolidation
 
