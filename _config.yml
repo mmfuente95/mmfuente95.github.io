@@ -8,8 +8,8 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Welcome to Marcelo Fuentes' site]
+description: [This site has some of Marcelo's Projects & Consulting Work]
 
 # github:
 #   zip_url: http://example.com/download.zip
