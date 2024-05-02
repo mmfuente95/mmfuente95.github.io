@@ -1,4 +1,4 @@
-Welcome to my personal site!
+# Welcome to my personal site!
 
 ## 🧑‍💻 About Me
 
