@@ -1,6 +1,13 @@
-# My Portfolio Website
+# Welcome to Marcelo Fuentes' personal site
 
-Welcome to my portfolio website! This website showcases some of my prior work and projects.
+Welcome to my microsite - here I have
+
+<style>
+/* Custom CSS to change background color */
+body {
+    background-color: #f0f0f0; /* Change this color to your desired background color */
+}
+</style>
 
 ## 📋 Table of Contents
 
@@ -25,18 +32,4 @@ Brief description of the project. Add some cool emojis to make it stand out! �
 
 Brief description of the project. Add some cool emojis to make it stand out! 🎨
 
-![Project Screenshot](project-screenshot.png)
-
-<!-- Add more projects as needed -->
-
-## 📞 Contact
-
-Feel free to reach out to me through the following channels:
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
+![Project Screenshot](
