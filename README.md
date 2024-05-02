@@ -12,9 +12,10 @@ I'm a Data Scientist with vast experience using machine learning, statistical an
 
 Banco de la Reserva del Peru (The Peruvian Central Bank) needed to gain access to Meteorological Data from SENHAMI (Servicio Nacional de Meteorología e Hidrología del Perú). During this project I set up scrapers using Selenium to scrape this data from the site's micro-application into a single data repository which was then shared with the team at the Central Bank. To conclude this project I presented my findings and gave a brief explanation of the methods used.
 
-![BCRP logo](https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/ee054073-1867-415b-8240-1fbe6b6861aa)
-![Senhami Logo](https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/64603962-7851-4541-94e0-6b4b5d48eefa)
-
+<div style="display: flex;">
+    <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/ee054073-1867-415b-8240-1fbe6b6861aa" alt="BCRP logo" style="height: 100px;">
+    <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/64603962-7851-4541-94e0-6b4b5d48eefa" alt="Senhami Logo" style="height: 100px;">
+</div>
 
 ### 🌟 Data Analysis: Survey Data Analysis for Novel Insights 
 
