@@ -1,16 +1,16 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/tactile@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+# title: [The title of your site]
+# description: [A short description of your site's purpose]
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+# github:
+#   zip_url: http://example.com/download.zip
+#   another_url: another value
