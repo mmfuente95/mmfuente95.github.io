@@ -1,5 +1,3 @@
-# Hi, you
-
 Welcome to my personal site!
 
 ## 🧑‍💻 About Me
