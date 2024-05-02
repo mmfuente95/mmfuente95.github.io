@@ -28,5 +28,5 @@ Davis & Gilbert (Corporate Law Firm) engaged with Marcelo to work on survey data
 Wuufy.io (Startup in Vet-Tech Space) needed to integrate multiple datasets into a single repository/database for employees across the organization to be able to query and utilize data to gain insights into their customer based, potential opportunities, etc. As part of this project I set up a series of API connections to the platforms Wuufy.io was using and subsequently created a serverless database using AWS and postgreSQL for Wuufy.io to access all of their data using SQL.
 
 <div style="display: flex;">
-    <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/bd1b65ee-1cf9-42e5-8307-c38567a4ecf4" alt="wuufy logo" style="height: 150px;">
+    <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/bd1b65ee-1cf9-42e5-8307-c38567a4ecf4" alt="wuufy logo" style="height: 100px;">
 </div>
