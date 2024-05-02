@@ -4,7 +4,7 @@
 
 I'm a Data Scientist with vast experience using machine learning, statistical and analytical tools  (Python, R, SQL, etc.) to deliver value to clients. Some of the major project I have worked on include: churn propensity modeling, data integrations, seasonal forecasting, customer segmentation, dashboard development, KPI design, data scraping, survey data analysis, etc.
 
-## Marcelo's Consulting Projects
+## Independent Consulting Projects
 
 ### 🌟 Data Scraping: Scraped Meteorological Data for Peruvian Central Bank 
 
