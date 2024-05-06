@@ -1,4 +1,4 @@
-# 🧑‍💻 About Me
+# 🧑‍💻 About Marcelo Fuentes
 
 <div style="display: flex;">
     <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/2c8796b0-4953-418a-bb6a-c0145e1bd0e3" alt="MFuentesProfilePic" style="height: 150px;">
