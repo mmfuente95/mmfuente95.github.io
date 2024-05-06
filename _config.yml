@@ -6,5 +6,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Welcome to Marcelo Fuentes' site]
-description: [This site has some of Marcelo's Projects & Consulting Work]
+title: [Welcome to my personal site]
+description: [See below some of Marcelo's Work Experience & Consulting Projects]
