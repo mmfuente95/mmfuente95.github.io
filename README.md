@@ -1,6 +1,23 @@
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
+
+<div style="display: flex;">
+    <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/2c8796b0-4953-418a-bb6a-c0145e1bd0e3" alt="MFuentesProfilePic" style="height: 150px;">
+</div>
 
 I'm a Data Scientist with vast experience using machine learning, statistical and analytical tools  (Python, R, SQL, etc.) to deliver value to clients. Some of the major project I have worked on include: churn propensity modeling, data integrations, seasonal forecasting, customer segmentation, dashboard development, KPI design, data scraping, survey data analysis, etc.
+
+## Work Experience
+### Strategic Insights and Modeling: 
+Analysis of proprietary consumer, merchant, subscription and activity data. Tracking portfolio credit quality and designing production-grade churn and pricing models to optimize revenue streams. Experienced in forecasting NPS, performing segmentations, creating microapplications and presenting findings to executives using Python, SQL, Miro, Canvas, Google suite, etc.
+#### Methods used: K-Means clustering, Logistic Regression, Pipeline Building, SQL Development, Tableau, Snowflake, Sigma, Looker, Streamlit
+
+### Experimentation and Performance Tracking: 
+Skilled in initiating, desgining and reporting on experiments, overseeing portfolios of merchant and consumer accounts, and tracking sales teams' performance, utilizing techniques like Hypothesis Testing, Difference in Differences analysis, etc. using Python, SQL, etc.
+#### Methods used: Logistic Regression, Tableau, Looker, SQL Development, KPI Monitoring, Feature Engineering
+
+### Risk Analytics and Reporting: 
+Experienced in developing analytical tools for marketing risk monitoring (Equity, Bonds and Derivatives) and reporting to regulatory agencies and investment management firms alike. Managing relationships with investment managers, and improving workflows through process optimization utilizing SQL and VBA.
+#### Methods used: SQL Development, VBA, Financial Analysis, Market Risk Analysis
 
 ## Independent Consulting Projects
 
