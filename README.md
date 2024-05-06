@@ -9,15 +9,15 @@ I'm a Data Scientist with vast experience using machine learning, statistical an
 ## Work Experience
 ### Strategic Insights and Modeling
 Analysis of proprietary consumer, merchant, subscription and activity data. Tracking portfolio credit quality and designing production-grade churn and pricing models to optimize revenue streams. Experienced in forecasting NPS, performing segmentations, creating microapplications and presenting findings to executives using Python, SQL, Miro, Canvas, Google suite, etc.
-#### Methods used: K-Means clustering, Logistic Regression, Pipeline Building, SQL Development, Tableau, Snowflake, Sigma, Looker, Streamlit
+##### Methods used: K-Means clustering, Logistic Regression, Pipeline Building, SQL Development, Tableau, Snowflake, Sigma, Looker, Streamlit
 
 ### Experimentation and Performance Tracking
 Skilled in initiating, desgining and reporting on experiments, overseeing portfolios of merchant and consumer accounts, and tracking sales teams' performance, utilizing techniques like Hypothesis Testing, Difference in Differences analysis, etc. using Python, SQL, etc.
-#### Methods used: Logistic Regression, Tableau, Looker, SQL Development, KPI Monitoring, Feature Engineering
+##### Methods used: Logistic Regression, Tableau, Looker, SQL Development, KPI Monitoring, Feature Engineering
 
 ### Risk Analytics and Reporting
 Experienced in developing analytical tools for marketing risk monitoring (Equity, Bonds and Derivatives) and reporting to regulatory agencies and investment management firms alike. Managing relationships with investment managers, and improving workflows through process optimization utilizing SQL and VBA.
-#### Methods used: SQL Development, VBA, Financial Analysis, Market Risk Analysis
+##### Methods used: SQL Development, VBA, Financial Analysis, Market Risk Analysis
 
 ## Independent Consulting Projects
 
