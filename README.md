@@ -19,7 +19,7 @@ Skilled in initiating, desgining and reporting on experiments, overseeing portfo
 
 ### Risk Analytics and Reporting
 Experienced in developing analytical tools for marketing risk monitoring (Equity, Bonds and Derivatives) and reporting to regulatory agencies and investment management firms alike. Managing relationships with investment managers, and improving workflows through process optimization utilizing SQL and VBA.
-##### Platforms used: Global Markets Research (GMR), Sightline, Core 
+###### Platforms used: Global Markets Research (GMR), Sightline, Core 
 ###### Methods used: SQL, VBA, Financial Analysis, Market Risk Analysis
 
 ## Independent Consulting Projects
