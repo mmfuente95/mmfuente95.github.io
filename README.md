@@ -6,9 +6,9 @@
 
 I'm a Data Scientist with vast experience using machine learning, statistical and analytical tools  (Python, R, SQL, etc.) to deliver value to clients. Some olf the major project I have worked on include: churn propensity modeling, data integrations, seasonal forecasting, customer segmentation, dashboard development, KPI design, data scraping, survey data analysis, etc.
 
-Mobile: +1 315 664 1111
-Email: mm.fuenteslopez@gmail.com
-LinkedIn: https://www.linkedin.com/in/marcelo-fuentes-lopez/
+- Mobile: +1 315 664 1111
+- Email: mm.fuenteslopez@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marcelo-fuentes-lopez/
 
 ## Work Experience
 ### Strategic Insights and Modeling
