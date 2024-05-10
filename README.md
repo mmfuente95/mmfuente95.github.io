@@ -4,7 +4,7 @@
     <img src="https://github.com/mmfuente95/mmfuente95.github.io/assets/24255097/2c8796b0-4953-418a-bb6a-c0145e1bd0e3" alt="MFuentesProfilePic" style="height: 150px;">
 </div>
 
-I'm a Data Scientist with vast experience using machine learning, statistical and analytical tools  (Python, R, SQL, etc.) to deliver value to clients. Some of the major project I have worked on include: churn propensity modeling, data integrations, seasonal forecasting, customer segmentation, dashboard development, KPI design, data scraping, survey data analysis, revenue forecasting, etc.
+I'm a Data Scientist with vast experience using machine learning, statistical and analytical tools  (Python, R, SQL, etc.) to deliver value to clients. Some of the major projects I have worked on include: churn propensity modeling, data integrations, seasonal forecasting, customer segmentation, dashboard development, KPI design, data scraping, survey data analysis, revenue forecasting, etc.
 
 - Mobile: +1 315 664 1111
 - Email: mm.fuenteslopez@gmail.com
