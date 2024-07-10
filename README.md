@@ -9,6 +9,7 @@ I'm a Data Scientist with vast experience using machine learning, statistical an
 - Mobile: +1 315 664 1111
 - Email: mm.fuenteslopez@gmail.com
 - LinkedIn: https://www.linkedin.com/in/marcelo-fuentes-lopez/
+- Github Personal Projects: https://github.com/mmfuente95/Springboard_Data_Science
 
 ## Work Experience
 ### Strategic Insights and Modeling
