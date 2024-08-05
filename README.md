@@ -10,6 +10,8 @@ I'm a Data Scientist with vast experience using machine learning, statistical an
 - Email: mm.fuenteslopez@gmail.com
 - LinkedIn: https://www.linkedin.com/in/marcelo-fuentes-lopez/
 - Github Personal Projects: https://github.com/mmfuente95/Springboard_Data_Science
+- Computer Languages: Python, R, SQL, VBA
+- Languages: English, Spanish, Italian(Fluent), Portuguese (Conversational)
 
 ## Work Experience
 ### Strategic Insights and Modeling
